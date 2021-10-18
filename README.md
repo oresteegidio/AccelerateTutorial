@@ -5,7 +5,7 @@ If you see this file on my project, it's because I'm learning Git.
 
 My mood:
 
-> [MOOD NAME]
+> happy
 
 My favorite color:
 
